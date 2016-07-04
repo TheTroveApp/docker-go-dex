@@ -1,6 +1,6 @@
-# [Heroku Go Docker image](https://hub.docker.com/r/heroku/go)
+# [Heroku Go Docker image](https://hub.docker.com/r/heroku/go) [(dex edition)](https://github.com/coreos/dex)
 
-For use with the [heroku docker plugin](https://github.com/heroku/heroku-docker).
+For use with the [heroku docker plugin](https://github.com/heroku/heroku-docker). Modified to compile [dex](https://github.com/coreos/dex).
 
 ## Image tags
 
